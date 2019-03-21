@@ -76,14 +76,13 @@ You must create a new public Github repository and push your commits to this rep
 
 ## What are we looking for?
 
-We'll be assessing your ability to write clean, well designed and well tested code. We will also be looking at your commit history.
+- Ability to write clean, well designed and well tested code. 
+- Commit history.
 
-We respect your time so, as a guideline, please don't spend more than 2-3 hours working on this. We'd rather you submitted something partially complete after that time for us to discuss than spend days of your own time working on it.
+We respect your time so, as a guideline, please don't spend more than 2-3 hours working on this. We'd rather you submitted something partially complete after that time for us to discuss than spend days of your own time working on it. Instead we will discuss any improvements that you would make if you had more time.
 
 ## What comes next?
 
-We'll send you feedback on your code. If the outcome isn't to the standard we require for the role we'll always aim to have you at least learn something from the process.
-
-We may also want to discuss your code with you, to understand your approach and the tradeoffs you made.
+During the interview we will review the code together and discuss your approach to engineering and testing the solution and any assumptions made. 
 
 **Thanks for applying for a job at EMS and good luck! :-)**
