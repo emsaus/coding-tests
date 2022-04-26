@@ -74,7 +74,7 @@ REPORT
 
 You must create a new public Github repository and push your commits to this repo. Give us the URL to the repository so we can clone it.
 
-We would appreciate if you could deliver the exercise in Ruby or JavaScript, but feel free to deliver it in any other modern language that you feel comfortable using and happy to talk through.
+We would appreciate if you could deliver the exercise in `Ruby` or `JavaScript`, but feel free to deliver it in any other modern language that you feel comfortable using and happy to talk through.
 
 ## What are we looking for?
 
